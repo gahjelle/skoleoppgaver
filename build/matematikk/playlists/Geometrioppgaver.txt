@@ -1,0 +1,3 @@
+geometri/rotasjon.md
+geometri/rotasjon rundt punkt.md
+geometri/forskyvning.md
